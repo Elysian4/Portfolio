@@ -2790,7 +2790,7 @@ select.mobile-device {
   height: 70px;
   border-style: solid;
   border-top-color: #ffffff;
-  border-right-color: #d1c3f6;
+  border-right-color: #ffffff;
   border-left-color: transparent;
   border-bottom-color: transparent;
   border-radius: 50%;
@@ -2798,7 +2798,7 @@ select.mobile-device {
   animation: rotate 6s ease-in-out infinite;
   transform: rotate(-200deg)
 }
-@keyframes rotate {
+/* @keyframes rotate {
   0% { border-width: 10px; }
   25% { border-width: 3px; }
   50% { 
@@ -2807,7 +2807,7 @@ select.mobile-device {
   }
   75% { border-width: 3px;}
   100% { border-width: 10px;}
-}
+} */
 
 /*------------------------------------------------------------------
     BUTTONS
